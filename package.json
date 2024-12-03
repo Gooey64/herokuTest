@@ -1,10 +1,10 @@
 {
-  "name": "helloapp",
+  "name": "testapp",
   "version": "1.0.0",
   "description": "node app ",
-  "main": "hello_app.js",
+  "main": "herokuTest.js",
   "scripts": {
-  "start": "node hello_app.js"
+  "start": "node herokuTest.js"
 },
   "repository": {
   "type": "git",
